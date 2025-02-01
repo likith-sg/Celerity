@@ -47,7 +47,7 @@ The Celerity web engine consists of the following major modules:
  cmake ..
  make
 ```
-4.Run the engine:
+4. Run the engine:
 ```bash
 ./celerity
 ```
