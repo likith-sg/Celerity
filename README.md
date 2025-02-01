@@ -33,11 +33,10 @@ The Celerity web engine consists of the following major modules:
 ### Installation
 
 1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/celerity-web-engine.git
-   cd celerity-web-engine
-   ```
+ ```bash
+ git clone https://github.com/yourusername/celerity-web-engine.git
+ cd celerity-web-engine
+ ```
 
 2. Install dependencies (e.g., Skia, V8).
 3. Build the project using CMake:
