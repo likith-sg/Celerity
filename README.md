@@ -34,7 +34,7 @@ The Celerity web engine consists of the following major modules:
 
 1. Clone the repository:
  ```bash
- git clone https://github.com/yourusername/celerity-web-engine.git
+ git clone https://github.com/likith-sg/Celerity.git
  cd celerity-web-engine
  ```
 
